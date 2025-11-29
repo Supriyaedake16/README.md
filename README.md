@@ -1,73 +1,31 @@
-# README.md
-<h1 align="center">Hey 👋 I'm Supriya Edake</h1>
-<h3 align="center">Frontend Developer | Angular | Web Designer|React</h3>
+👋 Hi, I'm Supriya Edake
+Frontend Developer | Angular | React | Java | Spring Boot
 
----
+🚀 Passionate about building clean, modern and user-friendly web applications.
+💡 Currently exploring Full Stack Development and improving my frontend + backend skills.
 
-## 🚀 About Me
-- 🌱 Currently learning **Angular, Spring Boot & Java Full Stack**
-- 🎨 Passionate Frontend Developer with experience in **UI/UX, Angular Material, and Responsive Designs**
-- 💻 I enjoy building clean, modern, and user-friendly web applications  
-- 🎯 Goal: Become a **Full Stack Developer**
+🔧 Technologies & Tools
 
----
+Frontend: Angular, React, HTML, CSS, JavaScript
 
-## 🔧 Skills
-### **Frontend**
-- HTML, CSS, JavaScript  
-- Angular, Angular Material  
-- Bootstrap, Responsive Web Design  
-- Figma (UI/UX Design)
+Backend: Java, Spring Boot
 
-### **Backend**
-- Java  
-- Spring Boot  
-- REST APIs  
+Database: MySQL
 
-### **Database**
-- MySQL  
-- SQL Queries, Joins, CRUD
+Tools: Git, VS Code, Figma
 
----
+📌 Projects
 
-## 📌 Projects
-### 🔹 **🛍 E-commerce Website (Angular)**
-A complete shopping website inspired by Myntra with product listing, filters, and UI design.
+E-commerce Website (Angular) – Product listing, filters, responsive UI
 
-### 🔹 **🏥 Hospital Management System**
-Built using Angular + MySQL. Manages doctors, patients, appointments.
+Hospital Management System – Doctor/patient/appointment modules
 
-### 🔹 **🍔 Food Delivery App**
-Interactive UI with categories, items, and cart features.
+Food Delivery App – Menu, categories, cart UI
 
-### 🔹 **🎵 Spotify Clone**
-A stylish music UI built with HTML, CSS, JS.
+Spotify Clone – Music-style UI using HTML/CSS/JS
 
----
+📫 Contact
 
-## 📫 Contact Me
-- 📧 **Email:** supriyaedake16@gmail.com  
-- 🔗 **LinkedIn:** (add your link here)
-- 🌐 **Portfolio:** (add your portfolio when ready)
+📧 supriyaedake16@gmail.com
 
----
-
-## ❤️ Fun Facts
-- I love designing things that look beautiful ✨  
-- I enjoy learning new technologies  
-- Yoga + Music keeps my mind calm 💛  
-
----
-
-## ⭐ GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Supriyaedake16" alt="streak" />
-</p>
-
----
-
-## 🔗 Connect With Me  
-<p align="left">
-<a href="https://www.linkedin.com/in/YOUR-LINK" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-<a href="mailto:supriyaedake16@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
-</p>
+🔗 LinkedIn: add your link here
