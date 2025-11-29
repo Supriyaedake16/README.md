@@ -30,12 +30,6 @@
 ## 📫 Contact
 - 📧 Email: **supriyaedake16@gmail.com**  
 
----
-
-## ⭐ GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Supriyaedake16" alt="stats" />
-</p>
 
 ---
 
